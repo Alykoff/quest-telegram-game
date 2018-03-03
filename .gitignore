@@ -1,0 +1,11 @@
+start.sh
+*.db
+log.txt
+tmp.log
+nohup.out
+__pycache__/
+*.pyc
+*.log
+SECRET
+config.py
+mwk.sql
